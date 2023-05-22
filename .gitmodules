@@ -1,0 +1,3 @@
+[submodule "snapface-pseudo-backend"]
+	path = snapface-pseudo-backend
+	url = https://github.com/DataLyLa/snapface-pseudo-backend
